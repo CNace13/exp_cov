@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+
+# Virtual environments
+env/
+venv/
+
+# Additional files
+*.db
+*.pdf
+
